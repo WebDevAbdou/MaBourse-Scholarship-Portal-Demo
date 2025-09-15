@@ -11,7 +11,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Demo (9 minutes)](#demo-8-minutes)
+* [Demo (8 minutes)](#demo-8-minutes)
 * [Why this project matters](#why-this-project-matters)
 * [Highlights & Achievements](#highlights--achievements)
 * [Key Features](#key-features)
