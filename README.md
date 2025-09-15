@@ -51,8 +51,7 @@ This repository is the **public showcase**. The **codebase is intentionally priv
 * Public portal: browsing, search, filters, details, subscriptions
 * Admin portal: dashboard, CRUD, bulk import/export, messaging, analytics, security monitoring
 
-**Demo file**: `demo.mp4` (included here)
-**External link**: https://youtu.be/ZOyEpC9d0eE
+demo:* [▶ Watch Demo on YouTube](https://youtu.be/ZOyEpC9d0eE)
 
 > ⚠️ **Demo Credentials Note**: The admin login shown (`admin123@gmail.com`) is a **placeholder email** used for demonstration only.
 > The password is masked. Real production credentials are **different, secured, and never exposed** in this repository or video.
