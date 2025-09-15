@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-production-brightgreen.svg) ![Security](https://img.shields.io/badge/security-A%2B-brightgreen.svg) ![Systems](https://img.shields.io/badge/systems-all%20green-brightgreen.svg) ![Demo](https://img.shields.io/badge/demo-8%20min-blue.svg) ![Code](https://img.shields.io/badge/code-private-orange.svg)
 
 > **Public showcase repository** for the *MaBourse Scholarship Portal*.
-> The **source code is private** for security and IP reasons. This repository contains a 9-minute demo video and full documentation describing architecture, security, production readiness, and the technical journey to build a production-grade system. **Source code is available only upon request for academic or professional review.**
+> The **source code is private** for security and IP reasons. This repository contains a 8-minute demo video and full documentation describing architecture, security, production readiness, and the technical journey to build a production-grade system. **Source code is available only upon request for academic or professional review.**
 
 ---
 
