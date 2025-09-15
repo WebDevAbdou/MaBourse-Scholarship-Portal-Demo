@@ -1,7 +1,7 @@
 
 # 🎓 MaBourse — Scholarship Portal (Demo Showcase)
 
-![Status](https://img.shields.io/badge/status-production-brightgreen.svg) ![Security](https://img.shields.io/badge/security-A%2B-brightgreen.svg) ![Systems](https://img.shields.io/badge/systems-all%20green-brightgreen.svg) ![Demo](https://img.shields.io/badge/demo-9%20min-blue.svg) ![Code](https://img.shields.io/badge/code-private-orange.svg)
+![Status](https://img.shields.io/badge/status-production-brightgreen.svg) ![Security](https://img.shields.io/badge/security-A%2B-brightgreen.svg) ![Systems](https://img.shields.io/badge/systems-all%20green-brightgreen.svg) ![Demo](https://img.shields.io/badge/demo-8%20min-blue.svg) ![Code](https://img.shields.io/badge/code-private-orange.svg)
 
 > **Public showcase repository** for the *MaBourse Scholarship Portal*.
 > The **source code is private** for security and IP reasons. This repository contains a 9-minute demo video and full documentation describing architecture, security, production readiness, and the technical journey to build a production-grade system. **Source code is available only upon request for academic or professional review.**
@@ -11,7 +11,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Demo (9 minutes)](#demo-9-minutes)
+* [Demo (9 minutes)](#demo-8-minutes)
 * [Why this project matters](#why-this-project-matters)
 * [Highlights & Achievements](#highlights--achievements)
 * [Key Features](#key-features)
@@ -43,16 +43,16 @@ The platform evolved from a prototype into a **secure, enterprise-ready system**
 
 ---
 
-## Demo (9 minutes)
+## Demo (8 minutes)
 
-📺 Watch the 9-minute walkthrough demo:
+📺 Watch the 8-minute walkthrough demo:
 
 * **Public Portal:** scholarship browsing, search, filters, details, subscriptions
 * **Admin Portal:** dashboard, CRUD, bulk import/export, messaging, analytics, security monitoring
 
 > ⚠️ Demo Credentials Note: Admin login shown (`admin123@gmail.com`) is **placeholder only**; password is masked. Production credentials are secured and never exposed.
 
-**Demo video:** [YouTube external Link](https://youtu.be/ZOyEpC9d0eE) *(9:00 — full UI walkthrough: public portal + admin portal + security features)*
+**Demo video:** [YouTube external Link](https://youtu.be/ZOyEpC9d0eE) *(8:00 — full UI walkthrough: public portal + admin portal + security features)*
 
 ---
 
